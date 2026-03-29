@@ -1,6 +1,6 @@
 # SnapLaunch
 
-Opens selected Links when a sudden sound (snap/clap) is detected through the microphone.
+Opens selected Links when a sudden sound (snap/clap) is detected through the microphone.  
 Automates repetitive tasks by letting you open your work setup instantly with a snap instead of manually opening everything.
 
 ## Setup
